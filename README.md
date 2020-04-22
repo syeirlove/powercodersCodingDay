@@ -3,7 +3,7 @@ Coding Day 2020 / Powercoders ZRH bootcamp
 
 1. Fork the powercoders/coding_day repo from Github
 
-Make sure you forked it! Do not overwrite the orginal repo.
+   **Make sure you forked it! Do not overwrite the orginal repo.**
 
 2. Pull the forked repo to a local coding_day repo
 
