@@ -6,6 +6,6 @@ Make sure you forked it! Do not overwrite the orginal repo.
 
 2. Pull the forked repo to a local coding_day repo
 
-3. Commit every exercise / quiz block to your local repo *NOT* Github.
+3. Commit every exercise / quiz block to your local repo **NOT** Github.
 
-*At the end of the coding day at 5pm sharp push your whole repo to Github*
+**At the end of the coding day at 5pm sharp push your whole repo to Github**
