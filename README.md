@@ -8,4 +8,5 @@ Make sure you forked it! Do not overwrite the orginal repo.
 
 3. Commit every exercise / quiz block to your local repo **NOT** Github.
 
-**At the end of the coding day at 5pm sharp push your whole repo to Github**
+
+**At the end of the coding day at 4.15pm sharp push your whole repo to Github**
