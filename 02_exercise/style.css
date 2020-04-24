@@ -1,4 +1,52 @@
+/* Mobile-first styles */
+@media all and (min-width: 50em) {
+    .column {
+        /* float: left; */
+        width: 50%;
+    }
+}
+body {
+    background-color: cornflowerblue;
+}
+ul {
+    display: inline-block;
+    list-style-type: none;
+    width: 100%;
+    min-height: 70px;
+    background-color: #56B870;
+    margin: 0;
+    padding: 0;
+  }
+  
+li {
+    display: inline;
+    position: relative;
+    top: 20px;
+}
+li a {
+  color: white;
+  text-align: center;
+  padding: 16px;
+  padding-top: 20px;
+  text-decoration: none;
+  }
+#contact {
+    float: right;
+}
+
+header .red {
+    width: 100%;
+    min-height: 200px;
+    display:inline-block;
+    color:#FFF;
+    font-size:2em;
+    transition: all 0.3s linear;
+    text-align: center;
+}
+
 .zone {
+    width: 300px;
+    min-height: 300px;
     padding:30px 50px;
     margin:40px 60px;
     cursor:pointer;
@@ -42,6 +90,7 @@
     background: -o-linear-gradient(top, #C655BE 0%,#cf0404 100%); /* Opera 11.10+ */
     background: -ms-linear-gradient(top, #C655BE 0%,#cf0404 100%); /* IE10+ */
     background: linear-gradient(top, #C655BE 0%,#cf0404 100%); /* W3C */
+    
 }
 
 /***********************************************************************

@@ -4,6 +4,7 @@ h1 {
 }
 
 .robots {
+	margin: 0 auto;	 
 }
 
 .head, 
@@ -24,7 +25,7 @@ h1 {
 } 
 
 .eyes {
-	
+	margin: 0 auto; 
 }
 
 .head:hover {
@@ -36,6 +37,7 @@ h1 {
 	width: 300px; 
 	height: 150px;
 	display: flex; 
+	margin: 0 auto; 
 } 
 
 .left_arm, .right_arm { 
@@ -62,6 +64,7 @@ h1 {
 	width: 200px; 
 	height: 200px;
 	/* This is another useful property. Hmm what do you think it does?*/
+	/* It keeps the body at the center by setting the right and left margins to auto. */
 	margin: 0 auto;
 
 } 
@@ -85,7 +88,10 @@ h1 {
 }
 
 .right_leg { 
-	margin-left: 30px; 
+	/* margin-left: 30px;  */
+	position: relative; 
+	top: -120px; 
+	left: 120px;
 }
 
 .left_eye, .right_eye { 
@@ -105,8 +111,8 @@ h1 {
 
 .right_eye { 
 	position: relative; 
-	top: 100px; 
-	left: 120px; 
+	top: 83px; 
+	left: 140px; 
 }
 
 
