@@ -7,7 +7,11 @@ Coding Day 2020 / Powercoders ZRH bootcamp
 
 2. Pull the forked repo to a local coding_day repo
 
-3. Commit every exercise / quiz block to your local repo **NOT** Github.
+3. Read every exercise's README carefully, before you start coding.
+
+4. Commit every exercise to your local repo, **NOT** Github.
 
 
-**At the end of the coding day at 4.15pm sharp push your whole repo to Github**
+**At the end of the coding day at 4.15pm sharp push your whole repo to Github and upload it as a zip to the Google Classroom assignment**
+
+Total points: 180

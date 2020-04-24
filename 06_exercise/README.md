@@ -5,3 +5,4 @@ Input: [1,4,6,3,2]
 Output: ["Monday","Thursday","Saturday","Wednesday","Tuesday"]
 
 Estimated time: 30 minutes
+Total points: 30
